@@ -1,9 +1,7 @@
 # Student Dropout and Academic Success Prediction
 
 ## Project Overview
-This project predicts whether a student is likely to drop out, remain enrolled, or graduate successfully based on academic performance, demographic, and financial indicators.
-
-Early identification of at-risk students enables institutions to provide timely academic and financial interventions.
+Achieved ~77% model accuracy in predicting student outcomes using Random Forest classification. This project predicts whether a student is likely to drop out, remain enrolled, or graduate successfully based on academic performance, demographic, and financial indicators. Early identification of at-risk students enables institutions to provide timely academic and financial interventions.
 
 ## Dataset
 The dataset contains academic, demographic, and socioeconomic attributes collected at the time of enrollment and during early semesters.
